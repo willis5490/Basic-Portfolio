@@ -1,0 +1,41 @@
+.header {
+    overflow: hidden;
+    background-color: #ffffff;
+    border-bottom: solid;
+    border-bottom-color:#cccccc;
+    border-bottom-width: 4px;
+    font-size: 20px;
+    width: 960 px;
+
+
+
+}
+.header a {
+    float: left;
+    text-align: center;
+    padding:20px;
+    line-height: 0px;
+    border-radius: 4px;
+    font-size: 18px;
+    color: #cccccc;
+
+
+}
+.header-right {
+    float: right;
+    color: #cccccc;
+}
+#name {
+    margin-left: 50px;
+    font-size: 40px;
+    border: solid;
+    border-color:#4aaaa5; 
+    background-color: #4aaaa5;
+    color: #ffffff;
+
+}
+header{
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right: 20%
+}
