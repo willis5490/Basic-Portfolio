@@ -1,0 +1,98 @@
+body {
+    width: 100%;
+    margin: auto;
+    background-image: url(what-the-hex.png)
+}
+.container {
+    width: 960px;
+    margin: 0 auto;
+    background-color: #ffffff;
+}
+.header {
+    background: #ffffff;
+    width: 100%;
+    top: 0;
+    position: fixed;
+    border-bottom: solid;
+    border-color:#cccccc;
+
+}
+.name {
+    float: left;
+    background-color:#4aaaa5;
+    font-size: 20px;
+    color: #ffffff
+}
+li {
+    list-style: none;
+    float: left;
+    padding: 20px;
+    bottom: 0;
+    font-size: 20px;
+    color: #cccccc
+}
+li a {
+    text-decoration: none;
+    color: #cccccc
+}
+.nav {
+    float: right;
+   
+}
+img {
+    width: 200px;
+    height: 200px;
+    float: left;
+
+}
+.content {
+    padding-top: 100px;
+
+}
+p{
+    font-size: 20px;
+    padding-left: 20px;
+
+}
+.container2 {
+    width: 960px;
+    margin: 0 auto;
+
+}
+.info {
+    padding: 20px;
+    margin: auto;
+    background-color:#ffffff;
+    margin-top: 40px;
+
+}
+#pic {
+    float: left;
+    clear: left;
+    padding: 20px;
+
+}
+#about {
+    border-bottom: solid;
+    border-bottom-color:#dddddd;
+    padding-bottom: 30px;
+    color: #4aaaa5;
+
+}
+footer {
+    width: 100%;
+    background-color:#666666;
+    height: 70px;
+    bottom: 0;
+    position: absolute; 
+    border-top: solid 5px;
+    border-top-color: #4aaaa5;
+
+}
+#copy {
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 10px;
+    position: relative;
+    bottom: -30px;
+}
